@@ -5,7 +5,7 @@
 
 Projeto construído do evento Next Level Week da Rockeset.
 
-[Clique aqui para acessar](https://yuriomn.github.io/nlw)
+[Clique aqui para acessar](https://github.com/yuriomn/nlw)
 
 ## Tecnologias
 
